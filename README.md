@@ -1,8 +1,7 @@
 # Cats-and-Dogs
 ## Clasificación binaria de imágenes de perros y gatos utilizando tensorflow y keras
 
-![image](https://user-images.githubusercontent.com/105322443/221879551-837821a9-ffd6-4ffc-b4be-523ae351e2fb.png)
-
+![image](https://user-images.githubusercontent.com/105322443/221880377-5429baee-d157-4a36-9ba7-8036ec10cab2.png)
 
 ### Definimos nuestra carpeta de trabajo con 2000 imágenes
 
